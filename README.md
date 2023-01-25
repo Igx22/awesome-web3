@@ -26,8 +26,15 @@ Code Examples https://solidity-by-example.org/
 
 Language Docs https://docs.soliditylang.org/en/v0.8.11/introduction-to-smart-contracts.html
 
-Tier1 Lessons https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz
+Tier1 Lessons (Free) https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz
 
+Tier2 Lessons (<100usd) https://www.udemy.com/course/blockchain-developer/
+
+https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/?src=sac&kw=advanced+solidity
+
+https://www.udemy.com/course/advanced-solidity-yul-and-assembly/?src=sac&kw=advanced+solidity
+
+Tier3 Lessons (<8k usd) https://www.rareskills.io/
 
 ## ethereum
 
