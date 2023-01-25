@@ -40,6 +40,10 @@ Tier3 Lessons (<8k usd) https://www.rareskills.io/
 
 Consensus Docs https://github.com/ethereum/consensus-specs
 
+## web3
+
+web3 and decentralization https://ethereum.org/en/developers/docs/web2-vs-web3/
+
 
 ## blockchain
 
